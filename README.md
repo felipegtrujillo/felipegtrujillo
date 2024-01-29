@@ -1,5 +1,7 @@
 # 💫 About Me:
-Ingeniero Informático con 8 años de experiencia como <br>desarrollador ABAP en entornos empresariales. <br>Amplia experiencia en implementacion, desarrollo y mantenimiento <br>de soluciones SAP. Apasionado por la tecnología y actualmente<br> enfocado en la transición al desarrollo web y móvil. Cursando el bootcamp<br>de desafio latam de  Desarrollo Full-stack con javaascript.
+Ingeniero Informático con 8 años de experiencia como <br>desarrollador ABAP en entornos empresariales.
+<br>Amplia experiencia en implementacion, desarrollo y mantenimiento de soluciones SAP. 
+Apasionado por el diseño y tecnología, actualmente enfocado en la transición al desarrollo web y móvil. Cursando el bootcamp de desafio latam de  Desarrollo Full-stack con javascript.
 
 
 ## 🌐 Socials:
