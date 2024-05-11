@@ -1,11 +1,14 @@
 # 💫 About Me:
-Hola ! mi nombre es Felipe Garcia Trujillo, tengo 36 años de edad y estoy egregado y titulado de la carrera de Ingeniera Civil Informático en <br>
-Telecomunicaciones en la Universidad Diego Portales. Poseo mas de 8 años de experiencia como desarrollador ABAP en entornos empresariales. <br>
-Apasionado por el diseño y la tecnología, actualmente enfocado en lenguajes de programación y tecnologías abiertas hacia el desarrollo web y mobile <br>
-Recientemente finalizando el bootcamp de Desarrollo de Aplicaciones Full-stack con Javascript impartido por Talento Digital y Desafio latam.  <br>
+Hola ! mi nombre es Felipe Garcia Trujillo, tengo 36 años de edad y estoy egregado y titulado de la carrera de Ingeniera <br>
+Civil Informático en Telecomunicaciones en la Universidad Diego Portales. Poseo mas de 8 años de experiencia como  <br>
+desarrollador ABAP en entornos empresariales. Apasionado por el diseño y la tecnología, actualmente enfocado en lenguajes <br>
+de programación y tecnologías abiertas hacia el desarrollo web y mobile. <br>
 
-Actualmente me encuentro realizando algunos pequeños trabajos freelance en relacion al desarrollo web, y en busqueda de proyectos y desafios en <br>
-los que poder colaborar con mi habilidades y conocimentos ya adquiridos. <br>
+Recientemente finalizando el bootcamp de Desarrollo de Aplicaciones Full-stack con Javascript impartido por Talento Digital <br>
+y Desafio latam.  <br>
+
+Actualmente me encuentro realizando algunos pequeños trabajos freelance en relacion al desarrollo web, y en busqueda de proyectos  <br>
+y desafios enlos que poder colaborar con la experiencia y conocimentos ya adquiridos. <br>
 
 Te dejare mi correo electronico en caso de que quieras contactarme y charlar.
 
