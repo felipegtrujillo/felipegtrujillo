@@ -1,5 +1,11 @@
 # 💫 About Me:
-Titulado de Ingeniero Civil Informático en Telecomunicaciones en la<br> Universidad Diego Portales, con mas de 8 años de experiencia como desarrollador ABAP en entornos empresariales. <br>Apasionado por el diseño y la tecnología, actualmente en lenguajes y tecnologias abiertas hacia el desarrollo web y móvil.<br>Recien finalizado el  bootcamp de Desarrollo Full-stack con Javascript impartido por Desafio latam, haciendo algunos pequeños trabajos freelance en el desarrollo web<br>y abierto a nuevos proyectos y desafios en los que poder colaborar con mi conocimento y habilidades. <br><br>
+Titulado de Ingeniero Civil Informático en Telecomunicaciones en la Universidad Diego Portales, <br> 
+con mas de 8 años de experiencia como desarrollador ABAP en entornos empresariales. <br>
+Apasionado por el diseño y la tecnología, actualmente mas enfocado en lenguajes de programacion <br>
+y tecnologias abiertas hacia el desarrollo web y móvil. Recientemente finalizando el bootcamp de <br>
+Desarrollo Full-stack con Javascript impartido por Talento Digital y Desafio latam. Realizando algunos  <br>
+pequeños trabajos freelance en relacion al desarrollo web, y en busqueda de proyectos y desafios en los  <br>
+que poder colaborar con mi conocimento y habilidades. <br><br>
 
 
 ## 🌐 Socials:
