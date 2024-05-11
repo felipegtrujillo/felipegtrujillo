@@ -7,6 +7,12 @@ Desarrollo Full-stack con Javascript impartido por Talento Digital y Desafio lat
 pequeños trabajos freelance en relacion al desarrollo web, y en busqueda de proyectos y desafios en los  <br>
 que poder colaborar con mi conocimento y habilidades. <br><br>
 
+Te dejare un enlace a mi linkedin en caso que quieras contactarme via mensaje y tambien mi correo electronico en que quieras contactarme
+
+https://www.linkedin.com/in/felipegtrujillo/
+
+felipegtrujillo@gmail.com
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/felipegtrujillo/) 
